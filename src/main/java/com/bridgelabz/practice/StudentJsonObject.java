@@ -1,4 +1,4 @@
-package com.bridgelabz;
+package com.bridgelabz.practice;
 
 import org.json.JSONArray;
 import org.json.JSONObject;
