@@ -8,5 +8,15 @@
     "name": "Yagyata",
     "age": 22,
     "email": "yagyata@example.com"
+  },
+  {
+    "name": "John",
+    "age": 26,
+    "email": "john@example.com"
+  },
+  {
+    "name": "Alice",
+    "age": 28,
+    "email": "alice@example.com"
   }
 ]
